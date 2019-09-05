@@ -1,0 +1,11 @@
+INSERT INTO courseraintegration_schema.config(
+                client_org_name, coursera_api_client_secret, coursera_api_client_id, lms_api_client_secret, 
+                lms_api_client_id, coursera_contact_person, email, phone, coursera_api_orgid, lms_api_host, ftp_host, 
+                ftp_user, lms_api_user_id, lms_api_company_id, ftp_password,coursera_refresh_token,
+				coursera_access_token,status)
+                VALUES ('john deere', 'p69CN0XNeyVNNqwyB-i0hw', 'owzpNtxZcuXpPKPk9HT7Kw', 
+                '4c4b7feeee19c716ca5c096c5cc1d5254d0977045a2ea5090024dfb9f743ecf8cd4ca69e4cb08f7ac098153d75f2d79e', 
+                'partlms0037', 'YASH', 'test@yash.com', '78945612358', '9SIv6szMSVCAU_Gv8qycvw', 
+                'https://partlms0037.scdemo.successfactors.com', '18.130.50.152', 'john_deere_client', 
+                'coursera_integ', 'partlms0037', 'Sot@]}_HRHX5','xSBxsocB3PqeMiYQge8mE1TPUNdCw1inzV0Stw9XyQY',
+				'CiAawm_8Nxn27QokvLGL61jz1VUREakwQYoGeEskQBTJTRImCL2g_BAYgICAgEAgh9__nLctKhCjDOk23Fly5ek8o-T0dPsreAA','Y');

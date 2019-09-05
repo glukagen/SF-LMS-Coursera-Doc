@@ -1,0 +1,116 @@
+LMS POST Service 				   
+{
+"ocnCourses":[
+				{
+				"courseID":"LDA-100",
+				"providerID":"LYNDA",
+				"status":"ACTIVE",											
+				"title":[
+				{
+				"locale":"English",
+				"value":"Poetic Computers"
+				}
+				],
+				"description":[
+				{
+				"locale":"English",
+				"value":"People often think that they can tell the
+				difference between art and imitation, but can we really
+				tell the difference? What if computers wrote our poetry?"
+				}
+				],
+				"thumbnailURI":"https://<root>.com/images/poem.jpg",
+				22 C O N F I D E N T I A L
+				Implementing Open Content Network
+				Implementing Open Content Network for Non-Standard Providers
+				"content":[
+				{
+				"providerID":"LYNDA",
+				"launchURL":"http://<root>/can_a_computer_write_poetry",
+				"contentTitle":"Poetic Computers",
+				"contentID":"37f766bb-5e96-4c29-82d6-ee1c5bd887fb",
+				"launchType":2,
+				"mobileEnabled":false,
+				"mobileLaunchURL":null
+				}
+				],
+				"price":[
+				{
+				"currency":"USD",
+				"value":12.00
+				},
+				{
+				"currency":"INR",
+				"value":222.00
+				}
+				],
+				"schedule":[
+				{
+				"startDate":1451556622000,
+				"endDate":1427796622000,
+				"active":true,
+				"duration":"12 weeks"
+				}
+				],
+				"revisionNumber":1,
+				"duration":"18 minutes"
+				},
+
+
+
+{
+"courseID":"LDA-100",
+"providerID":"LYNDA",
+"status":"ACTIVE",
+"title":[
+{
+"locale":"English",
+"value":"Creativity in Scarcity"
+}
+],
+"description":[
+{
+"locale":"English",
+"value":"How often have you said that you had to
+get creative to solve a problem because you lacked
+resources? Getting creative often happens when you
+encounter scarcity."
+}
+],
+"thumbnailURI":"https://<root>/images/piano.jpg",
+"content":[
+{
+"providerID":"TED",
+"launchURL":"http://<root>/_messy_problems_inspire",
+"contentTitle":"Creativity in Scarcity",
+"contentID":"37f766bb-5e96-4c29-82d6-ee1c5bd887fb",
+"launchType":2,
+"mobileEnabled":false,
+"mobileLaunchURL":null
+}
+],
+"price":[
+{
+"currency":"USD",
+Implementing Open Content Network
+Implementing Open Content Network for Non-Standard Providers C O N F I D E N T I A L 23
+"value":12.00
+},
+{
+"currency":"INR",
+"value":222.00
+}
+],
+"schedule":[
+{
+"startDate":1451556622000,
+"endDate":1427796622000,
+"active":true,
+"duration":"12 weeks"
+}
+],
+"revisionNumber":1,
+"duration":"18 minutes"
+}
+]
+}

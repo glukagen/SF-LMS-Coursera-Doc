@@ -1,0 +1,45 @@
+{
+    "elements": [
+        {
+            "name": "YASH Technologies Learning Program",
+            "tagline": "Start learning on Coursera!",
+            "contentIds": [
+                {
+                    "contentId": "zj2VppjQEeWh0Q5bBaG7rw",
+                    "contentType": "Specialization"
+                },             
+            ],
+            "id": "Q0Wzd5osEei1PwqN7iH8Jg",
+            "url": "https://www.coursera.org/programs/yash-technologies-learning-program-ziplt"
+        },
+        {
+            "name": "YASH Data Science Program",
+            "tagline": "Start learning on Coursera!",
+            "contentIds": [
+                {
+                    "contentId": "xKZ-Rh0LEeaVXQ4hxYGBZw",
+                    "contentType": "Specialization"
+                },
+
+            ],
+            "id": "cH158posEeiRNRKU687nRg",
+            "url": "https://www.coursera.org/programs/yash-data-science-program-6waxl"
+        },
+        {
+            "name": "YASH Technologies Test Program",
+            "tagline": "Start learning on Coursera!",
+            "contentIds": [
+                {
+                    "contentId": "JdB92adFEeS5zCIAC8pMPA",
+                    "contentType": "Course"
+                },
+            ],
+            "id": "lfWYVKVPEeiVoQq-j07Zog",
+            "url": "https://www.coursera.org/programs/yash-technologies-test-program-9vibj"
+        }
+    ],
+    "paging": {
+        "total": 3
+    },
+    "linked": {}
+}

@@ -1,0 +1,17 @@
+ Sample Code
+{
+"userID"			: "<USERID>",
+"courseID"			:"<COURSEID>",
+"providerID"			:<PROVIDERID>,
+"courseCompleted"		:"true",
+"completedTimestamp"	:<COMPLETEDTIMESTAMP>,
+"instructorName			":"<InstructorName>",
+"grade"				:"<grade>",
+"totalHours"			:"<TOTALHOURS>",
+"creditHours"			:<CREDITHOURS>,
+"contactHours"		:<CONTACTHOURS>,
+"cpeHours"				:<CPE>,
+"comments"			:<COMMENTS>,
+"price"				:<PRICE>,
+"currency"				:<CURRENCY>
+}
